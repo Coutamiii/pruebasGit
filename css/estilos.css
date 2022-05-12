@@ -1,7 +1,7 @@
 body {
-    color: rgb(32, 31, 36);
+    color: rgb(218, 139, 30);
     text-align: left;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -17,4 +17,18 @@ body {
 
 #conteiner h1 {
     font-size: 20px;
+}
+
+#cabecera {
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
